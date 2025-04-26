@@ -30,7 +30,7 @@ function App() {
           </Routes>
         </main>
         <footer className="App-footer">
-          <p>© 2025 Product Management System</p>
+          <p>Product Management System</p>
         </footer>
       </div>
     </Router>
